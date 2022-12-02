@@ -19,5 +19,5 @@ PRODUCT_MAKEFILES := \
 
 COMMON_LUNCH_CHOICES := \
     aosp_d1-eng \
-    aosp_user \
+    aosp_d1-user \
     aosp_d1-userdebug
